@@ -65,11 +65,11 @@ generated directly from `assign_3_input.json` and the recorded MST edges in
 `results/output.json`; red edges indicate the MST chosen by both Prim and Kruskal while
 grey edges show the remaining connections.
 
-![small-1 graph with MST highlight](src/main/resources/graphs/small-1.png)
+![](src/main/resources/graphs/small-1.png)
 
-![medium-4 graph with MST highlight](src/main/resources/graphs/medium-4.png)
+![](src/main/resources/graphs/small-3.png)
 
-![extralarge-2 graph with MST highlight](src/main/resources/graphs/extralarge-2.png)
+![](src/main/resources/graphs/small-5.png)
 ## References
 
 [^impl]: See `MSTApplication` for the execution pipeline and `MSTCalculator` for algorithm implementations.
